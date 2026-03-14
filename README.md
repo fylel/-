@@ -1,6 +1,5 @@
 # Multivariate Function Visualization & Parameter Estimation Project
 
-**Duration:** Sep 2023 – Feb 2024
 
 This project focuses on **multivariate data analysis and statistical model estimation**, combining **numerical simulation and visualization techniques** to study parameter estimation problems in statistical models.
 
